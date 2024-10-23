@@ -1,0 +1,1 @@
+This repo showcases a preliminary analysis of time series data and implementation of two predictive models that capture temporal dynamics using the data from the [Global Energy Forecasting Competition](https://en.wikipedia.org/wiki/Global_Energy_Forecasting_Competition)
